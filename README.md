@@ -10,10 +10,4 @@ This is a React Vite project demonstrating API usage from PokéAPI.
 ```bash
 npm install
 npm run dev
-# React Vite App
-A React application using Vite and PokéAPI to fetch Pokémon details.
 
-## Getting Started:
-```bash
-npm install
-npm run dev
