@@ -10,3 +10,4 @@ This is a React Vite project demonstrating API usage from PokéAPI.
 ```bash
 npm install
 npm run dev
+
